@@ -1,0 +1,148 @@
+\documentclass[titlepage,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{pdfpages}
+\usepackage[spanish]{babel}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+
+
+\title{\textbf{Creación cuenta Github y Overleaf}}
+\author{Jairo Andres Mera Lopez \  \\ \textbf{Escuela Tecnológica Instituto Técnico Central}  \\ Sistemas Operativos I \\ Wilmer Lopez Lopez \\ jameralretolau@itc.edu.co  }
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+
+\section*{\centering Resumen}
+Dentro de este primer informe se encuentran los pasos principales para la creación de cuentas en GitHub y overleaf, teniendo en cuenta que ambas serán herramientas necesarias para la creación de los respectivos reportes solicitados en la clase de sistemas operativos I.
+
+\\ {\it \textbf{Palabras Clave} GitHub, Overleaf, Cuenta} 
+
+\section*{\centering Abstract}
+Within this first report you will find the steps mainly for the creation of accounts in GitHub and overleaf, taking into account that both will be necessary tools for the creation of the respective reports requested in the class of operating systems I.
+
+\\ {\it \textbf{KeyWords} Github, Overleaf, Account} 
+
+\newpage
+
+\tableofcontents
+
+\newpage
+
+
+\section{Objetivos}
+
+\begin{itemize}
+
+\item {\it Ilustrar paso a paso como hacer el registro en las herramientas web Github y overleaf} 
+\item {\it Crear cuentas en GitHub y Overleaf} 
+\item {\it Empezar a trabajar y realizar informes en \LaTeX } 
+
+\end{itemize}
+
+\newpage
+
+
+\section{Como Crear una cuenta en GitHub}
+
+Paso 1: Ingresar a github.com y dar click en la parte superior derecha en el botón "Sign Up"
+
+\includegraphics[width=\textwidth]{SS 7.png}
+
+\begin{center}
+\caption{Figura 1: Página principal GitHub}
+\end{center}
+
+
+Paso 2: Llenar el formulario de registro con nombre de usuario, correo electrónico y contraseña. Adicionalmente realizar la verificación de la cuenta 
+
+\includegraphics[width=\textwidth]{SS 8.png}
+    \begin{center}
+    \caption{Figura 2: Formulario de datos}
+    \end{center}
+    
+\includegraphics[width=\textwidth]{SS 9.png}
+    \begin{center}
+    \caption{Figura 3: Formulario de datos y verificación completos}
+    \end{center}
+
+
+Paso 3: Ya puede comenzar a compartir repositorios con los demás desarrolladores en este entorno.
+
+\includegraphics[width=\textwidth]{SS 10.png}
+\begin{center}
+    \caption{Figura 4: Página principal de usuario en GitHub}
+\end{center}
+
+\newpage
+
+
+\section{Como crear una cuenta en Overleaf}
+
+Paso 1: Ingresar a (es.overleaf.com) y dar click al botón verde de la parte superior derecha (Registrarse).
+
+\includegraphics[width=\textwidth]{SS 1.png}
+\begin{center}
+    \caption{Figura 5: Página principal Overleaf}
+\end{center}
+
+
+Paso 2: Llenar el formulario con correo y contraseña para el registro.
+
+\includegraphics[width=\textwidth]{SS 2.png}
+\begin{center}
+    \caption{Figura 6: Formulario registro Overleaf}
+\end{center}
+
+
+\section{Creación primer proyecto en Overleaf}
+
+Paso 1: Dar Click al botón verde central (Create new project) y luego escoger la opción "proyecto vacío"
+
+\includegraphics[width=\textwidth]{SS 3.png}
+\begin{center}
+    \caption{Figura 7: Página inicial Usuario Overleaf}
+\end{center}
+
+\includegraphics[width=\textwidth]{SS 4.png}
+\begin{center}
+    \caption{Figura 7: Opciones para proyecto nuevo}
+\end{center}
+
+Paso 2: Asigne un nombre a su nuevo proyecto en \LaTeX
+
+\includegraphics[width=\textwidth]{SS 5.png}
+\begin{center}
+    \caption{Figura 8: Espacio para asignar nombre del proyecto}
+\end{center}
+
+Paso 3: Realice su proyecto \LaTeX en Overleaf
+
+\includegraphics[width=\textwidth]{SS 6.png}
+\begin{center}
+    \caption{Figura 9: Inicio para un nuevo documento en \LaTeX}
+\end{center}
+
+\newpage
+
+\section{Conclusiones}
+
+\begin{itemize}
+\item {\it Se ilustra mediante capturas de pantalla como realizar el registro en las plataformas GitHub y Overleaf} 
+\item {\it Se crean las respectivas cuentas para realizar los informes de clase en dichas plataformas } 
+\item {\it Dando de ejemplo este documento se empieza a dar un uso a la plataforma Overleaf para hacer informes en \LaTeX} 
+\end{itemize}
+
+\newpage
+
+\section{Bibliografía}
+
+\begin{itemize}
+\item https://github.com/
+\item https://es.overleaf.com/
+\end{itemize}
+
+
+\end{document}
